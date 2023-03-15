@@ -1,5 +1,5 @@
 # create-kind-cluster
-Tool to bootstrap a local kind (k8s) cluster with registry and ingress.
+Tool to bootstrap a local kind (k8s) cluster with registry and NGINX ingress.
 
 ## Requirements:
 - kind: https://kind.sigs.k8s.io/docs/user/quick-start/#installation
